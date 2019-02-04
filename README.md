@@ -4,7 +4,7 @@ La web del proyecto Amuni (Aritz, More, Unai) http://www.amuni.tk
 Nuestro proyecto consiste en hacer una pagina sobre un juego de estrategia en tiempo real..
 Hemos contratado un vps(mysql,filezilla server) y descargando una plantilla comenzamos a modificar el html que seria nuestra pagina o inicio del proyecto. Para conectarnos a la vps hemos usado kitty , para la base de datos phpmyadmin y para modificar y ver archivos filezilla client.
 
-Lo primero que hemos creado es el html del registro , depende la extension del archivo hemos creado diferentes direcorios para los html .
+Lo primero que hemos creado es el html del registro , depende la extension del archivo hemos creado diferentes directorios para guardar los archivos .
 
 y despues de este el del login (tambien hemos creado un js para ver la contraseña que escribimos) .
 
