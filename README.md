@@ -1,4 +1,4 @@
-# amuni-web
+# Amuni-Web
 La web del proyecto Amuni (Aritz, More, Unai) http://www.amuni.tk
 
 Nuestro proyecto consiste en hacer una pagina sobre un juego de estrategia en tiempo real..
